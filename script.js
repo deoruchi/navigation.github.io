@@ -12,9 +12,8 @@ p.addEventListener('click',()=>{
     
 })
 
-if(window.matchMedia("(min-width:1440px)").matches){
-    ss[0].classList.remove('active')
-}
+
+
 
 let ds = document.getElementsByClassName('onee')
 let sd = document.getElementsByClassName('two')

@@ -138,6 +138,9 @@ p {
         display: none;
     }
 
+    .nav.active{
+        display: block;
+    }
     header {
 
         padding: 2% 2% 1% 2%;
