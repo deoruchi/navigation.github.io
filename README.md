@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [SOLUTION](https://github.com/kurokurotho/navigation.github.io.git)
+- Live Site URL: [LIVE](https://kurokurotho.github.io/navigation.github.io/)
 
 ## My process
 
