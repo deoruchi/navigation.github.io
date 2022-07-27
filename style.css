@@ -196,11 +196,12 @@ p {
         text-align: center;
         width: 100%;
         box-shadow: 0 0 15px hsl(0, 0%, 41%);
+        font-size: 17px;
     }
 
     .two li {
         display: block;
-        font-size: 12px;
+        
     }
 
     .two2 {
