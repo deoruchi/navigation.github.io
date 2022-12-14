@@ -133,7 +133,7 @@ p {
 
 
 /*For the large screen*/
-@media (max-width:1440px) {
+@media (max-width:1340px) {
     #menu {
         display: none;
     }
